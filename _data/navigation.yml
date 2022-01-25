@@ -1,0 +1,9 @@
+main:
+- title: "Football"
+  url: /football/
+- title: "Travelling"
+  url: /travelling/
+- title: "Portfolio"
+  url: /portfolio/
+- title: "About"
+  url: /about/
