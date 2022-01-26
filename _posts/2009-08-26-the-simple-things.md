@@ -1,14 +1,11 @@
 ---
-id: 227
 title: The Simple Things
 date: 2009-08-26T21:22:15+00:00
 author: Simon Barnett
 excerpt: Some early season glimpses of improvement leads some all-too-rare optimism.
 
-guid: http://acresofspace.co.uk/?p=227
-permalink: /the-simple-things/
-slide_template:
-  - ""
+permalink: /football/the-simple-things/
+
 categories:
   - Arsenal
   - Champions League

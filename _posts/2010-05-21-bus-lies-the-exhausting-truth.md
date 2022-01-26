@@ -1,16 +1,13 @@
 ---
-id: 369
 title: 'Bus Lies &#8211; The Exhausting Truth'
 date: 2010-05-21T17:41:13+00:00
 author: Simon Barnett
 excerpt: Finally, the agony of South American buses gets to me and I pour forth with anger after another crippling journey from La Paz to Cusco via the lovely Copacabana on Lake Titicaca.
 
-guid: http://acresofspace.co.uk/?p=369
-permalink: /bus-lies-the-exhausting-truth/
-slide_template:
-  - default
-post_image:
-  - https://lh3.googleusercontent.com/-eH5Bv2VpNvU/UO1UmmZz54I/AAAAAAAAAHY/Lrz-A49iaKI/s640/DSC_0029.JPG
+permalink: /travelling/bus-lies-the-exhausting-truth/
+
+header:
+  teaser:  https://lh3.googleusercontent.com/-eH5Bv2VpNvU/UO1UmmZz54I/AAAAAAAAAHY/Lrz-A49iaKI/s640/DSC_0029.JPG
 categories:
   - Bolivia
   - Peru

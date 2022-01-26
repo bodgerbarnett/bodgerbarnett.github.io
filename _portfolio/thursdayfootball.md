@@ -1,11 +1,8 @@
 ---
-id: 917
 title: Thursday Football
 date: 2014-03-11T19:04:12+00:00
 author: Simon Barnett
-guid: http://www.acresofspace.co.uk/?page_id=917
-slide_template:
-  - ""
+
 ---
 [pullquote style=&#8221;right&#8221;]A simple way to organise a weekly 5-a-side football match[/pullquote]  
 _A Django-based website which is used to manage a weekly 5-a-side football match. The site is deployed on Heroku and features automated player selection (using a rolling, points-based system), interactive team selection, form tables, player stats and regular email reminders._

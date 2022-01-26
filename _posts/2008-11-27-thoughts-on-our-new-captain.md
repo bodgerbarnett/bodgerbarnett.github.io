@@ -1,15 +1,11 @@
 ---
-id: 130
 title: Thoughts on our new captain
 date: 2008-11-27T23:26:50+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=130
-permalink: /thoughts-on-our-new-captain/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/thoughts-on-our-new-captain/
+
+
 categories:
   - Arsenal
   - Champions League

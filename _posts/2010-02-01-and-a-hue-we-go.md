@@ -1,16 +1,13 @@
 ---
-id: 308
 title: And A Hue We Go
 date: 2010-02-01T08:06:40+00:00
 author: Simon Barnett
 excerpt: A stunning train journey to Hue to visit the old temples of former Kings is followed by a near-disastrous border crossing into Laos.
 
-guid: http://acresofspace.co.uk/2010/02/03/and-a-hue-we-go/
-permalink: /and-a-hue-we-go/
-slide_template:
-  - default
-post_image:
-  - https://lh5.googleusercontent.com/-Cah0HGrY-mU/UO1UdCQHIaI/AAAAAAAAAEM/YrVlMu-LhJw/s640/DSC_0519.JPG
+permalink: /travelling/and-a-hue-we-go/
+
+header:
+  teaser:  https://lh5.googleusercontent.com/-Cah0HGrY-mU/UO1UdCQHIaI/AAAAAAAAAEM/YrVlMu-LhJw/s640/DSC_0519.JPG
 categories:
   - Travelling
   - Vietnam

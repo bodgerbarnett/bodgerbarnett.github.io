@@ -1,16 +1,13 @@
 ---
-id: 849
 title: Marinated Crab Cramps
 date: 2013-02-10T18:22:55+00:00
 author: Simon Barnett
 excerpt: A few days of respite from the heat up in the mountains of Boquete are followed by a few days in Bocas del Toro where we meet some fantastic people and learn some interesting Spanish phrases.
 
-guid: http://www.acresofspace.co.uk/?p=849
-permalink: /marinated-crab-cramps/
-slide_template:
-  - default
-post_image:
-  - 'https://lh4.googleusercontent.com/-C5wYBkYeJuo/USn_pChyNJI/AAAAAAAAAhY/CHNCEG9iY8c/s640/Slightly%2520drunk%2520people%2520on%2520the%2520dock%252C%2520after%2520looking%2520at%2520the%2520plankton.jpg'
+permalink: /travelling/marinated-crab-cramps/
+
+header:
+  teaser:  'https://lh4.googleusercontent.com/-C5wYBkYeJuo/USn_pChyNJI/AAAAAAAAAhY/CHNCEG9iY8c/s640/Slightly%2520drunk%2520people%2520on%2520the%2520dock%252C%2520after%2520looking%2520at%2520the%2520plankton.jpg'
 categories:
   - Panama
   - Travelling

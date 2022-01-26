@@ -1,16 +1,13 @@
 ---
-id: 541
 title: The Island Of Superlatives
 date: 2010-03-12T03:09:38+00:00
 author: Simon Barnett
 excerpt: "The most visually stunning place we have ever been to. New Zealand's South Island provides views and scenery to astound."
 
-guid: http://acresofspace.co.uk/2010/03/12/the-island-of-superlatives/
-permalink: /the-island-of-superlatives/
-slide_template:
-  - default
-post_image:
-  - https://lh6.googleusercontent.com/-Mo9ypt85XoM/UO1Uhctn6GI/AAAAAAAAAFo/ntZ9bWO46pY/s640/DSC_0454.JPG
+permalink: /travelling/the-island-of-superlatives/
+
+header:
+  teaser:  https://lh6.googleusercontent.com/-Mo9ypt85XoM/UO1Uhctn6GI/AAAAAAAAAFo/ntZ9bWO46pY/s640/DSC_0454.JPG
 categories:
   - New Zealand
   - Travelling

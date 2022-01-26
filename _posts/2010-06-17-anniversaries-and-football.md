@@ -1,16 +1,13 @@
 ---
-id: 380
 title: Anniversaries And Football
 date: 2010-06-17T19:56:59+00:00
 author: Simon Barnett
 excerpt: "The World Cup begins - but I have barely watched any of it. It's not all that bad though as we are still on Roatan, soaking up the sun. Then its off to Guatemala where we encounter a man more suited to Brixton and stay in a remote finca in the jungle."
 
-guid: http://acresofspace.co.uk/2010/06/17/anniversaries-and-football/
-permalink: /anniversaries-and-football/
-slide_template:
-  - default
-post_image:
-  - https://lh4.googleusercontent.com/-dhZYDJuTarM/UO1Uo76fYNI/AAAAAAAAAIE/UnE20pDMYb4/s640/DSC_0071.JPG
+permalink: /travelling/anniversaries-and-football/
+
+header:
+  teaser:  https://lh4.googleusercontent.com/-dhZYDJuTarM/UO1Uo76fYNI/AAAAAAAAAIE/UnE20pDMYb4/s640/DSC_0071.JPG
 categories:
   - Guatemala
   - Honduras

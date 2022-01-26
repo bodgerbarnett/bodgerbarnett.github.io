@@ -1,16 +1,13 @@
 ---
-id: 301
 title: 'Dalat&#8217;s The Way To Do It'
 date: 2010-01-29T03:44:24+00:00
 author: Simon Barnett
 excerpt: A day in the mountains, a few on the beach and some harrowing bus journeys culminate with arrival in Hoi An.
 
-guid: http://acresofspace.co.uk/2010/01/29/dalats-the-way-to-do-it/
-permalink: /dalats-the-way-to-do-it/
-slide_template:
-  - default
-post_image:
-  - https://lh3.googleusercontent.com/-2lTL4kdTr40/UO1UcnBn1SI/AAAAAAAAAEA/YxEW2Bjrf9g/s640/DSC_0351.JPG
+permalink: /travelling/dalats-the-way-to-do-it/
+
+header:
+  teaser:  https://lh3.googleusercontent.com/-2lTL4kdTr40/UO1UcnBn1SI/AAAAAAAAAEA/YxEW2Bjrf9g/s640/DSC_0351.JPG
 categories:
   - Travelling
   - Vietnam

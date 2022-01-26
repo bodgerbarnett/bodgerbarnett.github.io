@@ -1,15 +1,11 @@
 ---
-id: 101
 title: Toothless
 date: 2008-08-23T18:45:19+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=101
-permalink: /toothless/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/toothless/
+
+
 categories:
   - Arsenal
   - Football

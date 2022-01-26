@@ -1,12 +1,10 @@
 ---
-id: 392
 title: The Poor Lads Are Tired
 date: 2011-01-15T15:02:57+00:00
 author: David Barnett
 excerpt: Father Barnett makes his debut after an abject performance at Portman Road.
 
-guid: http://acresofspace.co.uk/?p=392
-permalink: /the-poor-lads-are-tired/
+permalink: /football/the-poor-lads-are-tired/
 categories:
   - Arsenal
   - Football

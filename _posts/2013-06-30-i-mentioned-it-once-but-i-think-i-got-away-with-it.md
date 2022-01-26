@@ -1,16 +1,13 @@
 ---
-id: 859
 title: 'I Mentioned It Once &#8211; But I Think I Got Away With It'
 date: 2013-06-30T22:04:42+00:00
 author: Simon Barnett
 excerpt: A weekend in Berlin for my birthday, featuring far too many references to Hitler, the Nazis and the war.
 
-guid: http://www.acresofspace.co.uk/?p=859
-permalink: /i-mentioned-it-once-but-i-think-i-got-away-with-it/
-slide_template:
-  - default
-post_image:
-  - https://lh4.googleusercontent.com/-YefEpdPCJhE/U2zum3BER_I/AAAAAAAAB0Q/acsV51QmeOQ/s640/DSC_4286.jpg
+permalink: /travelling/i-mentioned-it-once-but-i-think-i-got-away-with-it/
+
+header:
+  teaser:  https://lh4.googleusercontent.com/-YefEpdPCJhE/U2zum3BER_I/AAAAAAAAB0Q/acsV51QmeOQ/s640/DSC_4286.jpg
 categories:
   - Germany
   - Travelling

@@ -1,15 +1,11 @@
 ---
-id: 135
 title: Running out of patience
 date: 2009-01-28T22:19:48+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=135
-permalink: /running-out-of-patience/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/running-out-of-patience/
+
+
 categories:
   - Arsenal
   - Football

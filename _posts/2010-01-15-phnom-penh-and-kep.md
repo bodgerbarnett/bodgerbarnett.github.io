@@ -1,16 +1,13 @@
 ---
-id: 535
 title: Phnom Penh And Kep
 date: 2010-01-15T07:11:04+00:00
 author: Simon Barnett
 excerpt: 'The harrowing evidence of the rule of the Khmer Rouge in Phnom Penh is followed by some R&R in Kep.'
 
-guid: http://acresofspace.co.uk/2010/01/15/phnom-penh-and-kep/
-permalink: /phnom-penh-and-kep/
-slide_template:
-  - default
-post_image:
-  - https://lh3.googleusercontent.com/-5MjzYYzdpvQ/UO1UcDRVatI/AAAAAAAAAD0/oGKtIkD6Gdo/s640/DSC_0235.JPG
+permalink: /travelling/phnom-penh-and-kep/
+
+header:
+  teaser:  https://lh3.googleusercontent.com/-5MjzYYzdpvQ/UO1UcDRVatI/AAAAAAAAAD0/oGKtIkD6Gdo/s640/DSC_0235.JPG
 categories:
   - Cambodia
   - Travelling

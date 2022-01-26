@@ -1,16 +1,13 @@
 ---
-id: 359
 title: Bus-Waterfall-Bus-Bus-Church-Bus
 date: 2010-04-27T23:09:44+00:00
 author: Simon Barnett
 excerpt: A trip to see the amazing falls at Iguazu provide the filling in an epic bus journey sandwich.
 
-guid: http://acresofspace.co.uk/2010/04/27/bus-waterfall-bus-bus-church-bus/
-permalink: /bus-waterfall-bus-bus-church-bus/
-slide_template:
-  - default
-post_image:
-  - https://lh4.googleusercontent.com/-EsAZH1AgzIg/UO1Uki9wNPI/AAAAAAAAAGw/uZJRAintBiw/s640/DSC_0542.JPG
+permalink: /travelling/bus-waterfall-bus-bus-church-bus/
+
+header:
+  teaser:  https://lh4.googleusercontent.com/-EsAZH1AgzIg/UO1Uki9wNPI/AAAAAAAAAGw/uZJRAintBiw/s640/DSC_0542.JPG
 categories:
   - Argentina
   - Travelling

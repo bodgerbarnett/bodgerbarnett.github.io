@@ -1,16 +1,12 @@
 ---
-id: 184
 title: 'What&#8217;s wrong with Arsenal (repeat)'
 date: 2009-05-10T22:44:41+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=184
-permalink: /whats-wrong-with-arsenal-repeat/
-has_tweeted:
+permalink: /football/whats-wrong-with-arsenal-repeat/
+
   - "1"
-  - "1"
-slide_template:
-  - ""
+
 categories:
   - Arsenal
   - Football

@@ -1,21 +1,10 @@
 ---
-id: 8
 title: Juve bore themselves into submission
 date: 2006-04-05T22:18:00+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/wpblog/?p=5
-permalink: /juve-bore-themselves-into-submission/
-has_tweeted:
-  - "1"
-blogger_blog:
-  - blog.acresofspace.co.uk
-  - blog.acresofspace.co.uk
-blogger_permalink:
-  - /2006/04/juve-bore-themselves-into-submission.html
-  - /2006/04/juve-bore-themselves-into-submission.html
-slide_template:
-  - ""
+permalink: /football/juve-bore-themselves-into-submission/
+
 categories:
   - Arsenal
   - Champions League

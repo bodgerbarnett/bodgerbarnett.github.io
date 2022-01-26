@@ -1,16 +1,13 @@
 ---
-id: 333
 title: Hong Kong Crazy
 date: 2010-02-25T13:57:24+00:00
 author: Simon Barnett
 excerpt: An expensive few days in Hong Kong, featuring racing and some interesting foodstuffs.
 
-guid: http://acresofspace.co.uk/2010/02/25/hong-kong-crazy/
-permalink: /hong-kong-crazy/
-slide_template:
-  - default
-post_image:
-  - https://lh4.googleusercontent.com/-K36l5e2glc4/UO1Ue46Tm2I/AAAAAAAAAE4/lJtnP_FO8dE/s640/DSC_0165.JPG
+permalink: /travelling/hong-kong-crazy/
+
+header:
+  teaser:  https://lh4.googleusercontent.com/-K36l5e2glc4/UO1Ue46Tm2I/AAAAAAAAAE4/lJtnP_FO8dE/s640/DSC_0165.JPG
 categories:
   - Hong Kong
   - Travelling

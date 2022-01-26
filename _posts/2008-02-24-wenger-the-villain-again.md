@@ -1,15 +1,11 @@
 ---
-id: 30
 title: Wenger the villain again
 date: 2008-02-24T01:15:02+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/?p=42
-permalink: /wenger-the-villain-again/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/wenger-the-villain-again/
+
+
 categories:
   - Arsenal
   - Football

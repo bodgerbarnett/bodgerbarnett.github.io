@@ -1,16 +1,12 @@
 ---
-id: 198
 title: '2008/2009 Season Reviews &#8211; The Optimist'
 date: 2009-06-22T13:22:34+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=198
-permalink: /20082009-season-reviews-the-optimist/
-has_tweeted:
+permalink: /football/20082009-season-reviews-the-optimist/
+
   - "1"
-  - "1"
-slide_template:
-  - ""
+
 categories:
   - Arsenal
   - Champions League

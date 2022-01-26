@@ -1,13 +1,10 @@
 ---
-id: 13
 title: Bye bye Highbury
 date: 2006-05-11T17:17:00+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/wpblog/?p=10
-permalink: /bye-bye-highbury/
-slide_template:
-  - ""
+permalink: /football/bye-bye-highbury/
+
 categories:
   - Arsenal
   - Football

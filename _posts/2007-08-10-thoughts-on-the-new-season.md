@@ -1,21 +1,10 @@
 ---
-id: 25
 title: Thoughts on the new season
 date: 2007-08-10T14:20:00+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/wpblog/?p=22
-permalink: /thoughts-on-the-new-season/
-has_tweeted:
-  - "1"
-blogger_blog:
-  - blog.acresofspace.co.uk
-  - blog.acresofspace.co.uk
-blogger_permalink:
-  - /2007/08/thoughts-on-new-season.html
-  - /2007/08/thoughts-on-new-season.html
-slide_template:
-  - ""
+permalink: /football/thoughts-on-the-new-season/
+
 categories:
   - Arsenal
   - Football

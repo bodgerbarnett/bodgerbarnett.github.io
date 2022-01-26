@@ -1,15 +1,11 @@
 ---
-id: 34
 title: The hardest defeat of the season
 date: 2008-04-09T22:15:11+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/?p=106
-permalink: /the-hardest-defeat-of-the-season/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/the-hardest-defeat-of-the-season/
+
+
 categories:
   - Arsenal
   - Champions League

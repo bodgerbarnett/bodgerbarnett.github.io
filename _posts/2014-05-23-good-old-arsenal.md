@@ -1,14 +1,11 @@
 ---
-id: 1489
 title: Good Old Arsenal
 date: 2014-05-23T19:03:27+00:00
 author: Simon Barnett
 excerpt: "After nine years of being constantly reminded of how long we've gone without a trophy, Saturday was a blessed relief."
 
-guid: http://www.acresofspace.co.uk/?p=1489
-permalink: /good-old-arsenal/
-slide_template:
-  - default
+permalink: /football/good-old-arsenal/
+
 snap_MYURL:
   - ""
 snapEdIT:

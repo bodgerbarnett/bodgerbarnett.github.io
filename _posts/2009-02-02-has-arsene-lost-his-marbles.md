@@ -1,15 +1,11 @@
 ---
-id: 138
 title: Has Arsene lost his marbles?
 date: 2009-02-02T17:01:53+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=138
-permalink: /has-arsene-lost-his-marbles/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/has-arsene-lost-his-marbles/
+
+
 categories:
   - Arsenal
   - Football

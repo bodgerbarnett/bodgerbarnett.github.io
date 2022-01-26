@@ -1,9 +1,8 @@
 ---
-id: 6
 title: Juve outclassed on a night to remember
 date: 2006-03-28T22:39:00+00:00
 author: Simon Barnett
-permalink: /juve-outclassed-on-a-night-to-remember/
+permalink: /football/juve-outclassed-on-a-night-to-remember/
 categories:
   - Arsenal
   - Champions League

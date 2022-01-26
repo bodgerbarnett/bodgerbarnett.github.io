@@ -1,12 +1,10 @@
 ---
-id: 376
 title: The Men Who Hate Football
 date: 2011-01-07T10:57:39+00:00
 author: Simon Barnett
 excerpt: Why do clubs with mega bucks in the bank insist on spoiling the game we all love?
 
-guid: http://acresofspace.co.uk/?p=376
-permalink: /the-men-who-hate-football/
+permalink: /football/the-men-who-hate-football/
 categories:
   - Arsenal
   - Football

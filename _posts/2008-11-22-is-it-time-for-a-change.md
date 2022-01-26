@@ -1,15 +1,11 @@
 ---
-id: 127
 title: It may be time for a change at the top
 date: 2008-11-22T18:12:05+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=127
-permalink: /is-it-time-for-a-change/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/is-it-time-for-a-change/
+
+
 categories:
   - Arsenal
   - Football

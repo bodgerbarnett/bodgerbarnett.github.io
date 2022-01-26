@@ -1,15 +1,11 @@
 ---
-id: 147
 title: Bye bye, Eboue
 date: 2009-02-09T16:49:41+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=147
-permalink: /bye-bye-eboue/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/bye-bye-eboue/
+
+
 categories:
   - Arsenal
   - Football

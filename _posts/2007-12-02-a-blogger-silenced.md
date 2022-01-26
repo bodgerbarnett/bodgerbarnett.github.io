@@ -1,19 +1,9 @@
 ---
-id: 26
 title: A blogger silenced
 date: 2007-12-02T20:05:00+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/wpblog/?p=23
-permalink: /a-blogger-silenced/
-has_tweeted:
-  - "1"
-blogger_blog:
-  - blog.acresofspace.co.uk
-blogger_permalink:
-  - /2007/12/blogger-silenced.html
-slide_template:
-  - ""
+permalink: /football/a-blogger-silenced/
 categories:
   - Arsenal
   - Football

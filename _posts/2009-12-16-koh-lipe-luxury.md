@@ -1,16 +1,13 @@
 ---
-id: 261
 title: Koh Lipe Luxury
 date: 2009-12-16T11:19:49+00:00
 author: Simon Barnett
 excerpt: A few days spent on the island of Koh Lipe, Thailand. Superb.
 
-guid: http://acresofspace.co.uk/2009/12/16/koh-lipe-luxury/
-permalink: /koh-lipe-luxury/
-slide_template:
-  - default
-post_image:
-  - https://lh3.googleusercontent.com/--z8xS_-Nzcg/UO1Uan23npI/AAAAAAAAADU/1LV61_-2oHg/s640/DSC_0236.JPG
+permalink: /travelling/koh-lipe-luxury/
+
+header:
+  teaser:  https://lh3.googleusercontent.com/--z8xS_-Nzcg/UO1Uan23npI/AAAAAAAAADU/1LV61_-2oHg/s640/DSC_0236.JPG
 categories:
   - Thailand
   - Travelling

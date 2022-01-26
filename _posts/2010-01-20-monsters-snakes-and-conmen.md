@@ -1,14 +1,12 @@
 ---
-id: 298
 title: Monsters, Snakes And Conmen
 date: 2010-01-20T12:27:15+00:00
 author: Simon Barnett
 excerpt: "An encounter with a poisonous snake was the least of our worries as we battled against the expert conmen of South Vietnam. And lost. It wasn't our first battle of the week, the traffic in Saigon proving more than a small challenge."
 
-guid: http://acresofspace.co.uk/2010/01/20/monsters-snakes-and-conmen/
-permalink: /monsters-snakes-and-conmen/
-post_image:
-  - https://lh4.googleusercontent.com/-lIF9xxZd50E/UO1UcY3p_7I/AAAAAAAAAD8/-uVDsQN0zGQ/s640/DSC_0057.JPG
+permalink: /travelling/monsters-snakes-and-conmen/
+header:
+  teaser:  https://lh4.googleusercontent.com/-lIF9xxZd50E/UO1UcY3p_7I/AAAAAAAAAD8/-uVDsQN0zGQ/s640/DSC_0057.JPG
 categories:
   - Cambodia
   - Travelling

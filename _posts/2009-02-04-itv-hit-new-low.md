@@ -1,15 +1,11 @@
 ---
-id: 143
 title: ITV hit new low
 date: 2009-02-04T23:09:49+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=143
-permalink: /itv-hit-new-low/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/itv-hit-new-low/
+
+
 categories:
   - F.A. Cup
   - Football

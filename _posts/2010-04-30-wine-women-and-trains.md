@@ -1,16 +1,13 @@
 ---
-id: 360
 title: Wine, Women And Trains
 date: 2010-04-30T15:57:33+00:00
 author: Simon Barnett
 excerpt: 'More wine tasting in Cafayate - perhaps a little too much this time - and an amazing train ride up into the Andes from Salta. Our tour of Argentina finishes with a superb steak.'
 
-guid: http://acresofspace.co.uk/2010/04/30/wine-women-and-trains/
-permalink: /wine-women-and-trains/
-slide_template:
-  - default
-post_image:
-  - https://lh6.googleusercontent.com/-Cw5sV0xSr_U/UO1UlXVrjuI/AAAAAAAAAG8/YEYouxx1YG4/s640/DSC_0659.JPG
+permalink: /travelling/wine-women-and-trains/
+
+header:
+  teaser:  https://lh6.googleusercontent.com/-Cw5sV0xSr_U/UO1UlXVrjuI/AAAAAAAAAG8/YEYouxx1YG4/s640/DSC_0659.JPG
 categories:
   - Argentina
   - Travelling

@@ -1,0 +1,12 @@
+Simon Barnett:
+  name     : "Simon Barnett"
+  avatar   : "/assets/images/me.jpg"
+  bio      : "The blog entries from the days when I wasn't a lapsed Arsenal fan."
+  location : "London, UK"
+  links:
+  - label: "Acres Of Space"
+    icon: "fas fa-fw fa-link"
+    url: "https://acresofspace.co.uk"
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://twitter.com/acresofspace"

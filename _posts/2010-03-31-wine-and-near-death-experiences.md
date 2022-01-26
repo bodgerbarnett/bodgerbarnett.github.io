@@ -1,16 +1,13 @@
 ---
-id: 343
 title: Wine And Near Death Experiences
 date: 2010-03-31T17:10:00+00:00
 author: Simon Barnett
 excerpt: "After a day of wine tasting and cycling, we experience something a little more terrifying - paragliding. Then it's off to Junin de los Andes for some off road cycling and some stunning views."
 
-guid: http://acresofspace.co.uk/2010/03/31/wine-and-near-death-experiences/
-permalink: /wine-and-near-death-experiences/
-slide_template:
-  - default
-post_image:
-  - https://lh6.googleusercontent.com/-lCUHbTOBW8U/UO1Ujflj2rI/AAAAAAAAAGU/rjTD7Eu68Mw/s640/DSC_0033.JPG
+permalink: /travelling/wine-and-near-death-experiences/
+
+header:
+  teaser:  https://lh6.googleusercontent.com/-lCUHbTOBW8U/UO1Ujflj2rI/AAAAAAAAAGU/rjTD7Eu68Mw/s640/DSC_0033.JPG
 categories:
   - Argentina
   - Travelling

@@ -1,14 +1,11 @@
 ---
-id: 1780
 title: 'It&#8217;s Nuffin&#8217; To Do With Me, Guv'
 date: 2014-10-18T18:46:25+00:00
 author: Simon Barnett
 excerpt: "The constant insistence by those in charge that they're not to blame is - just slightly - getting to me."
 
-guid: http://www.acresofspace.co.uk/?p=1780
-permalink: /its-nuffin-to-do-with-me-guv/
-slide_template:
-  - default
+permalink: /football/its-nuffin-to-do-with-me-guv/
+
 snap_isAutoPosted:
   - "1"
 snap_MYURL:

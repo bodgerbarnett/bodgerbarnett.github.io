@@ -1,16 +1,13 @@
 ---
-id: 374
 title: Mother Nature Alters Our Route
 date: 2010-06-03T03:57:34+00:00
 author: Simon Barnett
 excerpt: The erupting volcano near Antigua forces us to travel through El Salvador to Honduras.
 
-guid: http://acresofspace.co.uk/2010/06/03/mother-nature-alters-our-route/
-permalink: /mother-nature-alters-our-route/
-slide_template:
-  - default
-post_image:
-  - https://lh6.googleusercontent.com/-5bZaugYTsT4/UO1UoLvAfpI/AAAAAAAAAH0/lm0S3y5cPVo/s640/CIMG2845.JPG
+permalink: /travelling/mother-nature-alters-our-route/
+
+header:
+  teaser:  https://lh6.googleusercontent.com/-5bZaugYTsT4/UO1UoLvAfpI/AAAAAAAAAH0/lm0S3y5cPVo/s640/CIMG2845.JPG
 categories:
   - El Salvador
   - Guatemala

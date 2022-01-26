@@ -1,16 +1,13 @@
 ---
-id: 350
 title: A Week In Buenos Aires
 date: 2010-04-20T16:12:11+00:00
 author: Simon Barnett
 excerpt: 'We were treated to a variety of different experiences in Buenos Aires including drumming, tango, football and shopping. '
 
-guid: http://acresofspace.co.uk/2010/04/20/a-week-in-buenos-aires/
-permalink: /a-week-in-buenos-aires/
-slide_template:
-  - default
-post_image:
-  - https://lh3.googleusercontent.com/-wkAw-2L_Y7E/UO1UkfKYU4I/AAAAAAAAAGs/m91zl0Ff4I8/s640/CIMG2734.JPG
+permalink: /travelling/a-week-in-buenos-aires/
+
+header:
+  teaser:  https://lh3.googleusercontent.com/-wkAw-2L_Y7E/UO1UkfKYU4I/AAAAAAAAAGs/m91zl0Ff4I8/s640/CIMG2734.JPG
 categories:
   - Argentina
   - Travelling

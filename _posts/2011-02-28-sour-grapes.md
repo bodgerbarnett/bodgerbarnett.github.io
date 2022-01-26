@@ -1,11 +1,9 @@
 ---
-id: 440
 title: Sour Grapes
 date: 2011-02-28T19:23:09+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=440
-permalink: /sour-grapes/
+permalink: /football/sour-grapes/
 categories:
   - Arsenal
   - Football

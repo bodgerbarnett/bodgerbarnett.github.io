@@ -1,16 +1,13 @@
 ---
-id: 272
 title: Vital Statistics
 date: 2009-12-20T12:17:49+00:00
 author: Annika McKee
 excerpt: 'More inane ramblings from Annika - this time on the subject of statistics.'
 
-guid: http://acresofspace.co.uk/2009/12/20/vital-statistics/
-permalink: /vital-statistics/
-slide_template:
-  - default
-post_image:
-  - https://lh5.googleusercontent.com/-wfx0cNunJMA/UO1UauKZCqI/AAAAAAAAADQ/QnyiT0faeAo/s640/DSC_0226.JPG
+permalink: /travelling/vital-statistics/
+
+header:
+  teaser:  https://lh5.googleusercontent.com/-wfx0cNunJMA/UO1UauKZCqI/AAAAAAAAADQ/QnyiT0faeAo/s640/DSC_0226.JPG
 categories:
   - Thailand
   - Travelling

@@ -1,15 +1,11 @@
 ---
-id: 161
 title: Eduardo is the key man
 date: 2009-02-16T23:30:23+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=161
-permalink: /eduardo-is-the-key-man/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/eduardo-is-the-key-man/
+
+
 categories:
   - Arsenal
   - F.A. Cup

@@ -1,12 +1,10 @@
 ---
-id: 405
 title: 'Arsenal FC &#8211; A Beacon Of Light In A Dark Financial Tunnel'
 date: 2011-02-09T16:52:51+00:00
 author: David Barnett
 excerpt: "After a football match we'd rather forget, it's time for some positive Arsenal vibes."
 
-guid: http://acresofspace.co.uk/?p=405
-permalink: /arsenal-fc-a-beacon-of-light-in-a-dark-financial-tunnel/
+permalink: /football/arsenal-fc-a-beacon-of-light-in-a-dark-financial-tunnel/
 categories:
   - Arsenal
   - Football

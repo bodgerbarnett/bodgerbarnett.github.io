@@ -1,16 +1,12 @@
 ---
-id: 164
 title: Phil Brown in sanity loss shock
 date: 2009-03-18T14:07:07+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=164
-permalink: /phil-brown-in-sanity-loss-shock/
-has_tweeted:
+permalink: /football/phil-brown-in-sanity-loss-shock/
+
   - "1"
-  - "1"
-slide_template:
-  - ""
+
 categories:
   - Arsenal
   - F.A. Cup

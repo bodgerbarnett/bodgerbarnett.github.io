@@ -1,12 +1,10 @@
 ---
-id: 371
 title: 'I&#8217;m Back! And It&#8217;s As If I Never Went Away'
 date: 2011-01-06T22:49:51+00:00
 author: Simon Barnett
 excerpt: After a break of 16 months, Acres Of Space is relaunched with a new look but will it have the same old miserable views? I expect so.
 
-guid: http://acresofspace.co.uk/?p=371
-permalink: /im-back-and-its-as-if-i-never-went-away/
+permalink: /football/im-back-and-its-as-if-i-never-went-away/
 categories:
   - Arsenal
   - Champions League

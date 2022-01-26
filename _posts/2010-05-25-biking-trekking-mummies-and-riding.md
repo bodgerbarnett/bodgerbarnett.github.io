@@ -1,16 +1,13 @@
 ---
-id: 543
 title: Biking, Trekking, Mummies And Riding
 date: 2010-05-25T00:31:33+00:00
 author: Simon Barnett
 excerpt: "An incredible day's cycling in the mountains and two days of trekking leads us to Machu Picchu. Then it's off to Arequipa where we visit a convent and try out horse riding for the first time."
 
-guid: http://acresofspace.co.uk/2010/05/25/biking-trekking-mummies-and-riding/
-permalink: /biking-trekking-mummies-and-riding/
-slide_template:
-  - default
-post_image:
-  - https://lh5.googleusercontent.com/-BxutqC5rh5w/UO1UnL1_0aI/AAAAAAAAAHk/KWkTgCWuVSk/s640/DSC_0133.jpg
+permalink: /travelling/biking-trekking-mummies-and-riding/
+
+header:
+  teaser:  https://lh5.googleusercontent.com/-BxutqC5rh5w/UO1UnL1_0aI/AAAAAAAAAHk/KWkTgCWuVSk/s640/DSC_0133.jpg
 categories:
   - Peru
   - Travelling

@@ -1,21 +1,10 @@
 ---
-id: 15
 title: Outbreak of football threatens to ruin relaxing summer
 date: 2006-06-09T12:56:00+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/wpblog/?p=12
-permalink: /outbreak-of-football-threatens-to-ruin-relaxing-summer/
-has_tweeted:
-  - "1"
-blogger_blog:
-  - blog.acresofspace.co.uk
-  - blog.acresofspace.co.uk
-blogger_permalink:
-  - /2006/06/outbreak-of-football-threatens-to-ruin.html
-  - /2006/06/outbreak-of-football-threatens-to-ruin.html
-slide_template:
-  - ""
+permalink: /football/outbreak-of-football-threatens-to-ruin-relaxing-summer/
+
 categories:
   - England
   - Football

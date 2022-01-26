@@ -1,16 +1,13 @@
 ---
-id: 1816
 title: The Beginning Of The End?
 date: 2016-02-10T14:33:59+00:00
 author: Simon Barnett
 excerpt: "My Dad and I won't be at the game on Sunday."
 
-guid: http://www.acresofspace.co.uk/?p=1816
-permalink: /the-beginning-of-the-end/
+permalink: /football/the-beginning-of-the-end/
 snap_isAutoPosted:
   - "1"
-slide_template:
-  - default
+
 snap_MYURL:
   - ""
 snapEdIT:

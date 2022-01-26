@@ -1,13 +1,10 @@
 ---
-id: 32
 title: 'We&#8217;ve had the pain &#8211; so where&#8217;s the pleasure?'
 date: 2008-03-25T15:18:10+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/?p=44
-permalink: /weve-had-the-pain-so-wheres-the-pleasure/
-slide_template:
-  - ""
+permalink: /football/weve-had-the-pain-so-wheres-the-pleasure/
+
 categories:
   - Arsenal
   - Football

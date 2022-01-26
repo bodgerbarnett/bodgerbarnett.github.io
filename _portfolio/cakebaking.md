@@ -1,11 +1,8 @@
 ---
-id: 929
 title: IBM South Bank Cake Baking
 date: 2014-03-11T19:05:51+00:00
 author: Simon Barnett
-guid: http://www.acresofspace.co.uk/?page_id=929
-slide_template:
-  - default
+
 ---
 _A regular cake baking club which has been running since 2001._
 

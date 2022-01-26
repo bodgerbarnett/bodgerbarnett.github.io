@@ -1,13 +1,10 @@
 ---
-id: 12
 title: Sorry Annika
 date: 2006-04-28T16:16:00+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/wpblog/?p=9
-permalink: /sorry-annika/
-slide_template:
-  - ""
+permalink: /football/sorry-annika/
+
 categories:
   - Arsenal
   - Champions League

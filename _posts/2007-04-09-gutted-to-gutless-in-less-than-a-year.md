@@ -1,21 +1,10 @@
 ---
-id: 24
 title: Gutted to gutless in less than a year
 date: 2007-04-09T12:29:00+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/wpblog/?p=21
-permalink: /gutted-to-gutless-in-less-than-a-year/
-has_tweeted:
-  - "1"
-blogger_blog:
-  - blog.acresofspace.co.uk
-  - blog.acresofspace.co.uk
-blogger_permalink:
-  - /2007/04/gutted-to-gutless-in-less-than-year_09.html
-  - /2007/04/gutted-to-gutless-in-less-than-year_09.html
-slide_template:
-  - ""
+permalink: /football/gutted-to-gutless-in-less-than-a-year/
+
 categories:
   - Arsenal
   - Football

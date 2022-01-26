@@ -1,11 +1,9 @@
 ---
-id: 464
 title: Time For Some Perspective
 date: 2011-07-04T14:04:18+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=464
-permalink: /time-for-some-perspective/
+permalink: /football/time-for-some-perspective/
 categories:
   - Arsenal
   - Champions League

@@ -1,16 +1,13 @@
 ---
-id: 273
 title: A Day Out In Krabi
 date: 2009-12-30T03:27:00+00:00
 author: Simon Barnett
 excerpt: A trip around the area of Krabi on a moped, including a sweaty climb up a hill, a crawl through some caves and a visit to a temple which is home to tons of monkeys.
 
-guid: http://acresofspace.co.uk/2009/12/30/a-day-out-in-krabi/
-permalink: /a-day-out-in-krabi/
-slide_template:
-  - default
-post_image:
-  - https://lh4.googleusercontent.com/-Z5UZWwuSMvM/UO1UbOLaaTI/AAAAAAAAADg/DUi674y_D8I/s640/DSC_0089.JPG
+permalink: /travelling/a-day-out-in-krabi/
+
+header:
+  teaser:  https://lh4.googleusercontent.com/-Z5UZWwuSMvM/UO1UbOLaaTI/AAAAAAAAADg/DUi674y_D8I/s640/DSC_0089.JPG
 categories:
   - Thailand
   - Travelling

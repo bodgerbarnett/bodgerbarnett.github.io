@@ -1,16 +1,13 @@
 ---
-id: 336
 title: Racists, Booze And Thermal Baths
 date: 2010-03-18T03:36:30+00:00
 author: Simon Barnett
 excerpt: "A few more days in New Zealand - this time on the North Island - and we're off to Santiago."
 
-guid: http://acresofspace.co.uk/2010/03/18/racists-booze-and-thermal-baths/
-permalink: /racists-booze-and-thermal-baths/
-slide_template:
-  - default
-post_image:
-  - https://lh6.googleusercontent.com/-3qKEyrcsuug/UO1UirjelLI/AAAAAAAAAGE/kwP-e674sXI/s640/DSC_0595.JPG
+permalink: /travelling/racists-booze-and-thermal-baths/
+
+header:
+  teaser:  https://lh6.googleusercontent.com/-3qKEyrcsuug/UO1UirjelLI/AAAAAAAAAGE/kwP-e674sXI/s640/DSC_0595.JPG
 categories:
   - New Zealand
   - Travelling

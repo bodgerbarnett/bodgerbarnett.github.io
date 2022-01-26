@@ -1,16 +1,13 @@
 ---
-id: 848
 title: Happy Children, Terrifying Boats And Fawlty Towers
 date: 2013-01-31T21:16:34+00:00
 author: Simon Barnett
 excerpt: A visit to the local village on the San Blas islands turns out to be surprisingly good. Then we travelled to Pedasi where I am forced to endure the most frightening boat trip of my life before moving on to a hotel run by an insane French woman on Boca Chica.
 
-guid: http://www.acresofspace.co.uk/?p=848
-permalink: /happy-children-terrifying-boats-and-fawlty-towers-2/
-slide_template:
-  - default
-post_image:
-  - 'https://lh5.googleusercontent.com/-Dg-40QokYWs/USfIxVDk_xI/AAAAAAAAAX8/Sq6MlFhhkz8/s640/Isla%2520Iguanas-3.jpg'
+permalink: /travelling/happy-children-terrifying-boats-and-fawlty-towers-2/
+
+header:
+  teaser:  'https://lh5.googleusercontent.com/-Dg-40QokYWs/USfIxVDk_xI/AAAAAAAAAX8/Sq6MlFhhkz8/s640/Isla%2520Iguanas-3.jpg'
 categories:
   - Panama
   - Travelling

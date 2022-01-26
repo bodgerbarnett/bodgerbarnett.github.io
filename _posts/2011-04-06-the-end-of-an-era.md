@@ -1,11 +1,9 @@
 ---
-id: 455
 title: The End Of An Era?
 date: 2011-04-06T14:28:39+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=455
-permalink: /the-end-of-an-era/
+permalink: /football/the-end-of-an-era/
 categories:
   - Arsenal
   - Football

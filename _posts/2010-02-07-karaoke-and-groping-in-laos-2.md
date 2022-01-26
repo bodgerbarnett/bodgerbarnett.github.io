@@ -1,16 +1,13 @@
 ---
-id: 325
 title: Karaoke And Groping In Laos
 date: 2010-02-07T11:19:16+00:00
 author: Simon Barnett
 excerpt: An insane five days in Laos, featuring some karaoke madness, some painful journeys and a stay with a Lao family.
 
-guid: http://acresofspace.co.uk/2010/02/07/karaoke-and-groping-in-laos-2/
-permalink: /karaoke-and-groping-in-laos-2/
-slide_template:
-  - default
-post_image:
-  - https://lh4.googleusercontent.com/--sBKpFVXeG8/UO1UdavdrsI/AAAAAAAAAEU/GOvLrD_JGHc/s640/DSC_0014.JPG
+permalink: /travelling/karaoke-and-groping-in-laos-2/
+
+header:
+  teaser:  https://lh4.googleusercontent.com/--sBKpFVXeG8/UO1UdavdrsI/AAAAAAAAAEU/GOvLrD_JGHc/s640/DSC_0014.JPG
 categories:
   - Laos
   - Travelling

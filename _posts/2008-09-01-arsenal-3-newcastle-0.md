@@ -1,15 +1,11 @@
 ---
-id: 106
 title: Arsenal 3 Newcastle 0
 date: 2008-09-01T20:49:12+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=106
-permalink: /arsenal-3-newcastle-0/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/arsenal-3-newcastle-0/
+
+
 categories:
   - Arsenal
   - Football

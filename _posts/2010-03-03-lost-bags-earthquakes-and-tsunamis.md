@@ -1,16 +1,13 @@
 ---
-id: 334
 title: Lost Bags, Earthquakes And Tsunamis
 date: 2010-03-03T04:18:18+00:00
 author: Simon Barnett
 excerpt: "Our arrival in New Zealand was slightly ruined by the fact that the airline lost our bags and an earthquake in our next destination may force us to change our plans. But that doesn't stop this part of the trip getting off to a superb start."
 
-guid: http://acresofspace.co.uk/2010/03/03/lost-bags-earthquakes-and-tsunamis/
-permalink: /lost-bags-earthquakes-and-tsunamis/
-slide_template:
-  - default
-post_image:
-  - https://lh3.googleusercontent.com/-vK1Db8G7BYY/UO1UfMn1AvI/AAAAAAAAAE8/u2TxuJcHrm4/s640/DSC_0015.JPG
+permalink: /travelling/lost-bags-earthquakes-and-tsunamis/
+
+header:
+  teaser:  https://lh3.googleusercontent.com/-vK1Db8G7BYY/UO1UfMn1AvI/AAAAAAAAAE8/u2TxuJcHrm4/s640/DSC_0015.JPG
 categories:
   - New Zealand
   - Travelling

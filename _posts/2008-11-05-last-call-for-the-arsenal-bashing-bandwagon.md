@@ -1,15 +1,11 @@
 ---
-id: 116
 title: Last call for the Arsenal bashing bandwagon
 date: 2008-11-05T23:21:58+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=116
-permalink: /last-call-for-the-arsenal-bashing-bandwagon/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/last-call-for-the-arsenal-bashing-bandwagon/
+
+
 categories:
   - Arsenal
   - Football

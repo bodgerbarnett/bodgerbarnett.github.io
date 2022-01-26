@@ -1,21 +1,10 @@
 ---
-id: 19
 title: 'Defences ruin Arsene&#8217;s football utopia'
 date: 2006-11-01T21:45:00+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/wpblog/?p=16
-permalink: /defences-ruin-arsenes-football-utopia/
-has_tweeted:
-  - "1"
-blogger_blog:
-  - blog.acresofspace.co.uk
-  - blog.acresofspace.co.uk
-blogger_permalink:
-  - /2006/11/defences-ruin-arsenes-football-utopia.html
-  - /2006/11/defences-ruin-arsenes-football-utopia.html
-slide_template:
-  - ""
+permalink: /football/defences-ruin-arsenes-football-utopia/
+
 categories:
   - Arsenal
   - Football

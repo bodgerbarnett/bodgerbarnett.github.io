@@ -1,16 +1,13 @@
 ---
-id: 342
 title: Two Santiagos
 date: 2010-03-24T21:54:16+00:00
 author: Simon Barnett
 excerpt: Our first few days in South America were spent in Valparaiso where we met some amazing people who survived the earthquake. We then moved on to Mendoza for some good food and wine.
 
-guid: http://acresofspace.co.uk/2010/03/24/two-santiagos/
-permalink: /two-santiagos/
-slide_template:
-  - default
-post_image:
-  - https://lh6.googleusercontent.com/-KyRo78YqX4Y/UO1UjOPA3JI/AAAAAAAAAGQ/9xToDwh7N9Y/s640/DSC_0038.JPG
+permalink: /travelling/two-santiagos/
+
+header:
+  teaser:  https://lh6.googleusercontent.com/-KyRo78YqX4Y/UO1UjOPA3JI/AAAAAAAAAGQ/9xToDwh7N9Y/s640/DSC_0038.JPG
 categories:
   - Chile
   - Travelling

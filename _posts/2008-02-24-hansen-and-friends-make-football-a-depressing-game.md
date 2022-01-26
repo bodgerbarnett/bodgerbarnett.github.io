@@ -1,15 +1,11 @@
 ---
-id: 31
 title: Hansen and friends make football a depressing game
 date: 2008-02-24T22:58:55+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/?p=43
-permalink: /hansen-and-friends-make-football-a-depressing-game/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/hansen-and-friends-make-football-a-depressing-game/
+
+
 categories:
   - Arsenal
   - Football

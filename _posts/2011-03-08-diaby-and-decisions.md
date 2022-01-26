@@ -1,11 +1,9 @@
 ---
-id: 449
 title: Diaby And Decisions
 date: 2011-03-08T13:10:21+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=449
-permalink: /diaby-and-decisions/
+permalink: /football/diaby-and-decisions/
 categories:
   - Arsenal
   - Football

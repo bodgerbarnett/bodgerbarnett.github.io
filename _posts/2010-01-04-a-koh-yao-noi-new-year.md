@@ -1,16 +1,13 @@
 ---
-id: 274
 title: A Koh Yao Noi New Year
 date: 2010-01-04T00:04:58+00:00
 author: Simon Barnett
 excerpt: An alcohol free New Year was ruined by the presence of actual alcohol.
 
-guid: http://acresofspace.co.uk/2010/01/04/a-koh-yao-noi-new-year/
-permalink: /a-koh-yao-noi-new-year/
-slide_template:
-  - default
-post_image:
-  - https://lh6.googleusercontent.com/-A8X28EcjKto/UO1UbDHc1FI/AAAAAAAAADk/m9_WQd_xthE/s640/DSC_0007.JPG
+permalink: /travelling/a-koh-yao-noi-new-year/
+
+header:
+  teaser:  https://lh6.googleusercontent.com/-A8X28EcjKto/UO1UbDHc1FI/AAAAAAAAADk/m9_WQd_xthE/s640/DSC_0007.JPG
 categories:
   - Thailand
   - Travelling

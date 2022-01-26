@@ -1,16 +1,12 @@
 ---
-id: 177
 title: 'Time to admit it, Arsene &#8211; Diaby and Adebayor are just not good enough'
 date: 2009-04-29T22:42:40+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=177
-permalink: /time-to-admit-it-arsene-diaby-and-adebayor-are-just-not-good-enough/
-has_tweeted:
+permalink: /football/time-to-admit-it-arsene-diaby-and-adebayor-are-just-not-good-enough/
+
   - "1"
-  - "1"
-slide_template:
-  - ""
+
 categories:
   - Arsenal
   - Champions League

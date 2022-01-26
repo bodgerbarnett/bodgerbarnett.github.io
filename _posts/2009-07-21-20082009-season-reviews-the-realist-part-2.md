@@ -1,14 +1,11 @@
 ---
-id: 214
 title: '2008/2009 Season Reviews &#8211; The Realist Part 2'
 date: 2009-07-21T14:56:34+00:00
 author: Simon Barnett
 excerpt: "The second part of The Realist's analysis of the season focuses on the important matches that shaped the campaign and finishes with some awards."
 
-guid: http://acresofspace.co.uk/?p=214
-permalink: /20082009-season-reviews-the-realist-part-2/
-slide_template:
-  - ""
+permalink: /football/20082009-season-reviews-the-realist-part-2/
+
 categories:
   - Arsenal
   - Champions League

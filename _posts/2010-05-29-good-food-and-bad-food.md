@@ -1,16 +1,13 @@
 ---
-id: 373
 title: Good Food And Bad Food
 date: 2010-05-29T18:17:03+00:00
 author: Simon Barnett
 excerpt: "We take a flight over the Nasca Lines which makes me feel more than a little bit queasy. Then it's off to Lima for a day or two which culminates in a culinary extravanganza before Lee flies home."
 
-guid: http://acresofspace.co.uk/2010/05/29/good-food-and-bad-food/
-permalink: /good-food-and-bad-food/
-slide_template:
-  - default
-post_image:
-  - https://lh4.googleusercontent.com/-SVoItmO6kpc/UO1Un12_lWI/AAAAAAAAAHw/ksoZ60RLAj8/s640/DSC_0351.JPG
+permalink: /travelling/good-food-and-bad-food/
+
+header:
+  teaser:  https://lh4.googleusercontent.com/-SVoItmO6kpc/UO1Un12_lWI/AAAAAAAAAHw/ksoZ60RLAj8/s640/DSC_0351.JPG
 categories:
   - Peru
   - Travelling

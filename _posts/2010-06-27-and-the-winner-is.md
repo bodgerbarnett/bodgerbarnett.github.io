@@ -1,16 +1,13 @@
 ---
-id: 383
 title: And The Winner Is …
 date: 2010-06-27T17:42:47+00:00
 author: Simon Barnett
 excerpt: Our last week is spent on the Caribbean island of Caye Caulker and features booze, beauty pageants and football. Superb.
 
-guid: http://acresofspace.co.uk/2010/06/27/and-the-winner-is/
-permalink: /and-the-winner-is/
-slide_template:
-  - default
-post_image:
-  - https://lh6.googleusercontent.com/-aGjEer7yHcs/UO1UqFOM37I/AAAAAAAAAIc/PSPwHroX2dc/s640/DSC_0082.JPG
+permalink: /travelling/and-the-winner-is/
+
+header:
+  teaser:  https://lh6.googleusercontent.com/-aGjEer7yHcs/UO1UqFOM37I/AAAAAAAAAIc/PSPwHroX2dc/s640/DSC_0082.JPG
 categories:
   - Belize
   - Travelling

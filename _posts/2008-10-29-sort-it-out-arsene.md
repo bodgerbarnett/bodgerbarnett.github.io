@@ -1,15 +1,11 @@
 ---
-id: 112
 title: Sort it out, Arsene
 date: 2008-10-29T23:27:08+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=112
-permalink: /sort-it-out-arsene/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/sort-it-out-arsene/
+
+
 categories:
   - Arsenal
   - Football

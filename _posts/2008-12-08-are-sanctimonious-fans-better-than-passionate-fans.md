@@ -1,15 +1,11 @@
 ---
-id: 133
 title: Are sanctimonious fans better than passionate fans?
 date: 2008-12-08T00:55:36+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=133
-permalink: /are-sanctimonious-fans-better-than-passionate-fans/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/are-sanctimonious-fans-better-than-passionate-fans/
+
+
 categories:
   - Arsenal
   - Football

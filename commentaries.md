@@ -1,13 +1,7 @@
 ---
-id: 33
 title: Commentaries
 date: 2008-04-02T13:04:24+00:00
 author: Simon Barnett
-guid: http://www.acresofspace.co.uk/?page_id=47
-slide_template:
-  - default
-vc_teaser:
-  - 'a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}'
 ---
 Having partially lost his eyesight in the mid-80&#8217;s, my father initially stopped going to watch Arsenal play football. However, he subsequently discovered the club&#8217;s excellent provision for blind and visually impaired fans and managed to continue to be a regular fan and still goes to this day, his enjoyment of the game being retained through the help of various volunteers who commentate for him and others every week.
 

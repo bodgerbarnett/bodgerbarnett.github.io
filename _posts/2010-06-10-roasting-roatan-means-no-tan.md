@@ -1,16 +1,13 @@
 ---
-id: 375
 title: Roasting Roatan Means No Tan
 date: 2010-06-10T16:26:39+00:00
 author: Simon Barnett
 excerpt: A visit to the amazingly well preserved ruins at Copan, a long bus journey and the start of a few days relaxing on the beach on the island of Roatan.
 
-guid: http://acresofspace.co.uk/2010/06/10/roasting-roatan-means-no-tan/
-permalink: /roasting-roatan-means-no-tan/
-slide_template:
-  - default
-post_image:
-  - https://lh3.googleusercontent.com/-SYyzRL7wttY/UO1UojFffNI/AAAAAAAAAH8/BnS-xw5hkYk/s640/DSC_0141.JPG
+permalink: /travelling/roasting-roatan-means-no-tan/
+
+header:
+  teaser:  https://lh3.googleusercontent.com/-SYyzRL7wttY/UO1UojFffNI/AAAAAAAAAH8/BnS-xw5hkYk/s640/DSC_0141.JPG
 categories:
   - Honduras
   - Travelling

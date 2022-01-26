@@ -1,16 +1,13 @@
 ---
-id: 260
 title: Alone And Sunburnt
 date: 2009-12-13T05:20:10+00:00
 author: Simon Barnett
 excerpt: An exhausting day or two on a deserted beach in Thailand.
 
-guid: http://acresofspace.co.uk/2009/12/13/alone-and-sunburnt/
-permalink: /alone-and-sunburnt/
-slide_template:
-  - default
-post_image:
-  - https://lh5.googleusercontent.com/-EDDOMleWqvA/UO1UaAU339I/AAAAAAAAADI/p5-Zq7jolJQ/s640/DSC_0171.JPG
+permalink: /travelling/alone-and-sunburnt/
+
+header:
+  teaser:  https://lh5.googleusercontent.com/-EDDOMleWqvA/UO1UaAU339I/AAAAAAAAADI/p5-Zq7jolJQ/s640/DSC_0171.JPG
 categories:
   - Thailand
   - Travelling

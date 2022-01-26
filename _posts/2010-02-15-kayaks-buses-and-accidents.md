@@ -1,16 +1,13 @@
 ---
-id: 329
 title: Kayaks, Buses And Accidents
 date: 2010-02-15T12:50:57+00:00
 author: Simon Barnett
 excerpt: Our first attempt at kayaking is followed by a hair-raising bus journey to the beautiful UNESCO World Heritage town of Luang Prabang.
 
-guid: http://acresofspace.co.uk/2010/02/15/kayaks-buses-and-accidents/
-permalink: /kayaks-buses-and-accidents/
-slide_template:
-  - default
-post_image:
-  - https://lh3.googleusercontent.com/-xdsqmjcXg9I/UO1Ud2tKKxI/AAAAAAAAAEg/0SHfDwNOLGI/s640/DSC_0085.JPG
+permalink: /travelling/kayaks-buses-and-accidents/
+
+header:
+  teaser:  https://lh3.googleusercontent.com/-xdsqmjcXg9I/UO1Ud2tKKxI/AAAAAAAAAEg/0SHfDwNOLGI/s640/DSC_0085.JPG
 categories:
   - Laos
   - Travelling

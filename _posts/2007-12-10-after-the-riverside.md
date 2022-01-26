@@ -1,19 +1,9 @@
 ---
-id: 27
 title: After the Riverside
 date: 2007-12-10T22:28:00+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/wpblog/?p=24
-permalink: /after-the-riverside/
-has_tweeted:
-  - "1"
-blogger_blog:
-  - blog.acresofspace.co.uk
-blogger_permalink:
-  - /2007/12/after-riverside_17.html
-slide_template:
-  - ""
+permalink: /football/after-the-riverside/
 categories:
   - Arsenal
   - Football

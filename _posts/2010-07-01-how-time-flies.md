@@ -1,16 +1,13 @@
 ---
-id: 384
 title: How Time Flies
 date: 2010-07-01T05:50:27+00:00
 author: Simon Barnett
 excerpt: After 7 months of travelling, we are on our way home. How to sum it all up? No idea, but I give it a good go.
 
-guid: http://acresofspace.co.uk/2010/07/01/how-time-flies/
-permalink: /how-time-flies/
-slide_template:
-  - default
-post_image:
-  - https://lh6.googleusercontent.com/-RZpMz1lZWO8/UO1UqF9AZKI/AAAAAAAAAIc/Lm3YBPvzRVg/s640/DSC_0207.JPG
+permalink: /travelling/how-time-flies/
+
+header:
+  teaser:  https://lh6.googleusercontent.com/-RZpMz1lZWO8/UO1UqF9AZKI/AAAAAAAAAIc/Lm3YBPvzRVg/s640/DSC_0207.JPG
 categories:
   - Belize
   - Travelling

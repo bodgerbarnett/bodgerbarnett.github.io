@@ -1,16 +1,13 @@
 ---
-id: 330
 title: Hiking, Biking, Selling And Conning
 date: 2010-02-19T02:49:53+00:00
 author: Simon Barnett
 excerpt: After weeks of nice hot weather, we spend a few days in chilly North Vietnam.
 
-guid: http://acresofspace.co.uk/2010/02/19/hiking-biking-selling-and-conning/
-permalink: /hiking-biking-selling-and-conning/
-slide_template:
-  - default
-post_image:
-  - https://lh3.googleusercontent.com/-z1vp8Oc68lg/UO1UeZ2cOxI/AAAAAAAAAEs/ksG4t-Ic9SU/s640/DSC_0033.JPG
+permalink: /travelling/hiking-biking-selling-and-conning/
+
+header:
+  teaser:  https://lh3.googleusercontent.com/-z1vp8Oc68lg/UO1UeZ2cOxI/AAAAAAAAAEs/ksG4t-Ic9SU/s640/DSC_0033.JPG
 categories:
   - Travelling
   - Vietnam

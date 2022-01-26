@@ -1,16 +1,13 @@
 ---
-id: 349
 title: Lakes, Penguins And Luxury
 date: 2010-04-14T12:48:21+00:00
 author: Simon Barnett
 excerpt: 'Some badly needed R&R in a superb apartment of our own in Bariloche along with visits to stunning lakes and glaciers. Followed by a day or two visiting penguins and armadillos in Puerto Madryn.'
 
-guid: http://acresofspace.co.uk/2010/04/14/lakes-penguins-and-luxury/
-permalink: /lakes-penguins-and-luxury/
-slide_template:
-  - default
-post_image:
-  - https://lh4.googleusercontent.com/-6gy7ley6L50/UO1Uj8KHugI/AAAAAAAAAGk/JvMaxgEEflI/s640/DSC_0221.JPG
+permalink: /travelling/lakes-penguins-and-luxury/
+
+header:
+  teaser:  https://lh4.googleusercontent.com/-6gy7ley6L50/UO1Uj8KHugI/AAAAAAAAAGk/JvMaxgEEflI/s640/DSC_0221.JPG
 categories:
   - Argentina
   - Travelling

@@ -1,21 +1,10 @@
 ---
-id: 20
 title: The truth is out there
 date: 2006-11-02T10:29:00+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/wpblog/?p=17
-permalink: /the-truth-is-out-there/
-has_tweeted:
-  - "1"
-blogger_blog:
-  - blog.acresofspace.co.uk
-  - blog.acresofspace.co.uk
-blogger_permalink:
-  - /2006/11/truth-is-out-there.html
-  - /2006/11/truth-is-out-there.html
-slide_template:
-  - ""
+permalink: /football/the-truth-is-out-there/
+
 categories:
   - Arsenal
   - Football

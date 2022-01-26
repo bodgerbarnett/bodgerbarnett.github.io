@@ -1,16 +1,13 @@
 ---
-id: 845
 title: Big Ships And Hairy Landings
 date: 2013-01-25T20:57:46+00:00
 author: Simon Barnett
 excerpt: A memorable trip to see the Panama Canal is the highlight of a few days in Panama City. We then squash into a tiny piece of flying metal for a hair-raising flight to the San Blas Islands.
 
-guid: http://www.acresofspace.co.uk/?p=845
-permalink: /big-ships-and-hairy-landings/
-slide_template:
-  - default
-post_image:
-  - 'https://lh6.googleusercontent.com/-SMNgVmYYpV8/USfE9MA-tTI/AAAAAAAAASs/no5bb5KdHZY/s640/Not%2520really%2520that%2520big%2520then.jpg'
+permalink: /travelling/big-ships-and-hairy-landings/
+
+header:
+  teaser:  'https://lh6.googleusercontent.com/-SMNgVmYYpV8/USfE9MA-tTI/AAAAAAAAASs/no5bb5KdHZY/s640/Not%2520really%2520that%2520big%2520then.jpg'
 categories:
   - Panama
   - Travelling

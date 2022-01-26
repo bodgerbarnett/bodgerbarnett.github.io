@@ -1,12 +1,10 @@
 ---
-id: 413
 title: Exorcising Daemons
 date: 2011-02-11T18:13:56+00:00
 author: Simon Barnett
 excerpt: It took me 6 days. But I finally got round to watching the visual images that have haunted me from last weekend.
 
-guid: http://acresofspace.co.uk/?p=413
-permalink: /exorcising-daemons/
+permalink: /football/exorcising-daemons/
 categories:
   - Arsenal
   - Football

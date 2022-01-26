@@ -1,13 +1,10 @@
 ---
-id: 493
 title: Is Talent Enough?
 date: 2012-02-18T19:41:38+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=493
-permalink: /is-talent-enough/
-slide_template:
-  - ""
+permalink: /football/is-talent-enough/
+
 categories:
   - Arsenal
   - Champions League

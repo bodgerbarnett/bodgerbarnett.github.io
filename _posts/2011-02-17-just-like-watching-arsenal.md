@@ -1,12 +1,10 @@
 ---
-id: 418
 title: Just Like Watching Arsenal
 date: 2011-02-17T11:43:59+00:00
 author: Simon Barnett
 excerpt: I think we just beat Barcelona. Yes. We definitely beat Barcelona.
 
-guid: http://acresofspace.co.uk/?p=418
-permalink: /just-like-watching-arsenal/
+permalink: /football/just-like-watching-arsenal/
 enclosure:
   - |
     http://delta.xssl.net/~sbarnett/acresofspace.co.uk/wp-content/uploads/2011/02/goal2-arshavin-barcelona.mp3

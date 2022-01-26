@@ -1,15 +1,11 @@
 ---
-id: 104
 title: Senderos joins Milan
 date: 2008-08-26T22:12:34+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=104
-permalink: /senderos-joins-milan/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/senderos-joins-milan/
+
+
 categories:
   - Arsenal
   - Football

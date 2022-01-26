@@ -1,11 +1,9 @@
 ---
-id: 454
 title: Arsenal (repeat)
 date: 2011-04-02T19:54:31+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/2011/04/arsenal-repeat/
-permalink: /arsenal-repeat/
+permalink: /football/arsenal-repeat/
 categories:
   - Football
 ---

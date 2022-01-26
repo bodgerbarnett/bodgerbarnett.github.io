@@ -1,16 +1,13 @@
 ---
-id: 275
 title: Cambodian Kidnaps In The Snow
 date: 2010-01-06T01:45:03+00:00
 author: Simon Barnett
 excerpt: 'Our first border crossing - and my, was it an eventful one!'
 
-guid: http://acresofspace.co.uk/2010/01/06/cambodian-kidnaps-in-the-snow/
-permalink: /cambodian-kidnaps-in-the-snow/
-slide_template:
-  - default
-post_image:
-  - https://lh6.googleusercontent.com/-SV7h3Fau7ow/UO1Ube7ThUI/AAAAAAAAADo/8nufOeq3-ck/s640/DSC_0048a.JPG
+permalink: /travelling/cambodian-kidnaps-in-the-snow/
+
+header:
+  teaser:  https://lh6.googleusercontent.com/-SV7h3Fau7ow/UO1Ube7ThUI/AAAAAAAAADo/8nufOeq3-ck/s640/DSC_0048a.JPG
 categories:
   - Cambodia
   - Travelling

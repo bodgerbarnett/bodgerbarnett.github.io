@@ -1,11 +1,8 @@
 ---
-id: 1474
 title: 'Dulwich Hamlet Supporters&#8217; Trust'
 date: 2014-05-23T17:30:07+00:00
 author: Simon Barnett
-guid: http://www.acresofspace.co.uk/?page_id=1474
-slide_template:
-  - default
+
 ---
 _The official website of the Dulwich Hamlet Supporters&#8217; Trust._
 

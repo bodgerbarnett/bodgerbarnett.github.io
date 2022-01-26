@@ -1,21 +1,10 @@
 ---
-id: 14
 title: Gutted but proud after heroic effort
 date: 2006-05-23T11:25:00+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/wpblog/?p=11
-permalink: /gutted-but-proud-after-heroic-effort/
-has_tweeted:
-  - "1"
-blogger_blog:
-  - blog.acresofspace.co.uk
-  - blog.acresofspace.co.uk
-blogger_permalink:
-  - /2006/05/gutted-but-proud-after-heroic-effort.html
-  - /2006/05/gutted-but-proud-after-heroic-effort.html
-slide_template:
-  - ""
+permalink: /football/gutted-but-proud-after-heroic-effort/
+
 categories:
   - Arsenal
   - Champions League

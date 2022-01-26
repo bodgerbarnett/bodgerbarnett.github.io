@@ -1,16 +1,13 @@
 ---
-id: 364
 title: The Uyuni Calama-ty
 date: 2010-05-05T03:42:24+00:00
 author: Simon Barnett
 excerpt: "After experiencing San Pedro de Atacama's only day of rain for more than a year, we set out on an epic journey to Uyuni in Bolivia."
 
-guid: http://acresofspace.co.uk/2010/05/05/the-uyuni-calama-ty/
-permalink: /the-uyuni-calama-ty/
-slide_template:
-  - default
-post_image:
-  - https://lh6.googleusercontent.com/-IN1HLxQxHDc/UO1UlsDi9iI/AAAAAAAAAHE/7J3SPRkdlGA/s640/DSC_0189.JPG
+permalink: /travelling/the-uyuni-calama-ty/
+
+header:
+  teaser:  https://lh6.googleusercontent.com/-IN1HLxQxHDc/UO1UlsDi9iI/AAAAAAAAAHE/7J3SPRkdlGA/s640/DSC_0189.JPG
 categories:
   - Bolivia
   - Chile

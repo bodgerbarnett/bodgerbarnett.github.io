@@ -1,15 +1,11 @@
 ---
-id: 118
 title: Spot the Champions
 date: 2008-11-12T22:58:18+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=118
-permalink: /spot-the-champions/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/spot-the-champions/
+
+
 categories:
   - Arsenal
   - Football

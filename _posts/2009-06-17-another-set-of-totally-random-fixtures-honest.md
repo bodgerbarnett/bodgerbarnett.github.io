@@ -1,16 +1,12 @@
 ---
-id: 194
 title: 'Another set of totally random fixtures &#8211; honest'
 date: 2009-06-17T11:31:24+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=194
-permalink: /another-set-of-totally-random-fixtures-honest/
-has_tweeted:
+permalink: /football/another-set-of-totally-random-fixtures-honest/
+
   - "1"
-  - "1"
-slide_template:
-  - ""
+
 categories:
   - Arsenal
   - Football

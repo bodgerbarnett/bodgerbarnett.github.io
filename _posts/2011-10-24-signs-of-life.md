@@ -1,11 +1,9 @@
 ---
-id: 478
 title: Signs Of Life
 date: 2011-10-24T17:41:24+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=478
-permalink: /signs-of-life/
+permalink: /football/signs-of-life/
 categories:
   - Arsenal
   - Football

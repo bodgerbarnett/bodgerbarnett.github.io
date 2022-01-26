@@ -1,16 +1,13 @@
 ---
-id: 282
 title: Five Days In Siem Reap
 date: 2010-01-11T06:04:52+00:00
 author: Simon Barnett
 excerpt: At the end of a fascinating journey up river to Siem Reap, we visit the ancient temple complex of Angkor Wat and meet the King Of Cambodia! Sort of.
 
-guid: http://acresofspace.co.uk/2010/01/11/five-days-in-siem-reap/
-permalink: /five-days-in-siem-reap/
-slide_template:
-  - default
-post_image:
-  - https://lh6.googleusercontent.com/-sjp7lRET4YA/UO1UbpoKSII/AAAAAAAAADw/ONEef3yCPww/s640/DSC_0113.JPG
+permalink: /travelling/five-days-in-siem-reap/
+
+header:
+  teaser:  https://lh6.googleusercontent.com/-sjp7lRET4YA/UO1UbpoKSII/AAAAAAAAADw/ONEef3yCPww/s640/DSC_0113.JPG
 categories:
   - Cambodia
   - Travelling

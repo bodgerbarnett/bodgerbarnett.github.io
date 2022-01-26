@@ -1,16 +1,13 @@
 ---
-id: 259
 title: Bangkok Scams And Ayutthaya Wats
 date: 2009-12-11T06:38:29+00:00
 author: Simon Barnett
 excerpt: Our travels begin with a day or two in the Thai capital, Bangkok.
 
-guid: http://acresofspace.co.uk/2009/12/11/bangkok-scams-and-ayuthaya-wats/
-permalink: /bangkok-scams-and-ayuthaya-wats/
-slide_template:
-  - default
-post_image:
-  - https://lh5.googleusercontent.com/-RWia1Q7SXfo/UO1UafWuCqI/AAAAAAAAADM/7gevmoyKHqI/s640/DSC_0083.JPG
+permalink: /travelling/bangkok-scams-and-ayuthaya-wats/
+
+header:
+  teaser:  https://lh5.googleusercontent.com/-RWia1Q7SXfo/UO1UafWuCqI/AAAAAAAAADM/7gevmoyKHqI/s640/DSC_0083.JPG
 categories:
   - Thailand
   - Travelling

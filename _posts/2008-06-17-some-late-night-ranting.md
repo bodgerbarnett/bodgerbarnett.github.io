@@ -1,15 +1,11 @@
 ---
-id: 37
 title: Some late night ranting
 date: 2008-06-17T22:44:50+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/?p=119
-permalink: /some-late-night-ranting/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/some-late-night-ranting/
+
+
 categories:
   - Arsenal
   - Football

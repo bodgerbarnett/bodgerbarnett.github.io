@@ -1,21 +1,10 @@
 ---
-id: 23
 title: Reflections on our European exit
 date: 2007-03-08T11:59:00+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/wpblog/?p=20
-permalink: /reflections-on-our-european-exit/
-has_tweeted:
-  - "1"
-blogger_blog:
-  - blog.acresofspace.co.uk
-  - blog.acresofspace.co.uk
-blogger_permalink:
-  - /2007/04/reflections-on-our-european-exit.html
-  - /2007/04/reflections-on-our-european-exit.html
-slide_template:
-  - ""
+permalink: /football/reflections-on-our-european-exit/
+
 categories:
   - Arsenal
   - Champions League

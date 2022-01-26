@@ -1,16 +1,13 @@
 ---
-id: 306
 title: 'Shopping &#8211; I Mean Hoi An'
 date: 2010-01-30T15:22:07+00:00
 author: Annika McKee
 excerpt: Annika tries to hide her excitement at the prospect of handmade tailored clothes. And fails.
 
-guid: http://acresofspace.co.uk/?p=306
-permalink: /shopping-i-mean-hoi-an/
-slide_template:
-  - default
-post_image:
-  - https://lh4.googleusercontent.com/-48_FDTZrpKs/UO1Uc9A7aCI/AAAAAAAAAEI/UomKkQMj6qk/s640/DSC_0393.JPG
+permalink: /travelling/shopping-i-mean-hoi-an/
+
+header:
+  teaser:  https://lh4.googleusercontent.com/-48_FDTZrpKs/UO1Uc9A7aCI/AAAAAAAAAEI/UomKkQMj6qk/s640/DSC_0393.JPG
 categories:
   - Travelling
   - Vietnam

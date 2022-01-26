@@ -1,16 +1,13 @@
 ---
-id: 368
 title: Bol-Ill-Via
 date: 2010-05-13T01:38:07+00:00
 author: Simon Barnett
 excerpt: The Bolivian food finally gets to us all as first Annika and then I get ill.
 
-guid: http://acresofspace.co.uk/2010/05/13/bol-ill-via/
-permalink: /bol-ill-via/
-slide_template:
-  - default
-post_image:
-  - https://lh3.googleusercontent.com/-6066_f-gc1w/UO1UmcHki7I/AAAAAAAAAHQ/wbj4T-V2Yk8/s640/DSC_0021.JPG
+permalink: /travelling/bol-ill-via/
+
+header:
+  teaser:  https://lh3.googleusercontent.com/-6066_f-gc1w/UO1UmcHki7I/AAAAAAAAAHQ/wbj4T-V2Yk8/s640/DSC_0021.JPG
 categories:
   - Bolivia
   - Travelling

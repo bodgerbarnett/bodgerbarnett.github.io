@@ -1,11 +1,9 @@
 ---
-id: 451
 title: Why Must We Have What Ifs And Buts
 date: 2011-03-09T16:23:17+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=451
-permalink: /why-must-we-have-what-ifs-and-buts/
+permalink: /football/why-must-we-have-what-ifs-and-buts/
 categories:
   - Arsenal
   - Champions League

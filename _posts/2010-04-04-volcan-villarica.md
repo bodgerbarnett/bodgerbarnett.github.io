@@ -1,16 +1,13 @@
 ---
-id: 542
 title: Volcan Villarica
 date: 2010-04-04T18:55:55+00:00
 author: Simon Barnett
 excerpt: An emotional (and sometimes physical!) roller coaster ride of a climb up a volcano near Pucon, Chile.
 
-guid: http://acresofspace.co.uk/2010/04/04/volcan-villarica/
-permalink: /volcan-villarica/
-slide_template:
-  - default
-post_image:
-  - https://lh4.googleusercontent.com/-bJ7FupfN09U/UO1Ujwfj-0I/AAAAAAAAAGg/wng9oX63mWM/s640/DSC_0088.JPG
+permalink: /travelling/volcan-villarica/
+
+header:
+  teaser:  https://lh4.googleusercontent.com/-bJ7FupfN09U/UO1Ujwfj-0I/AAAAAAAAAGg/wng9oX63mWM/s640/DSC_0088.JPG
 categories:
   - Chile
   - Travelling

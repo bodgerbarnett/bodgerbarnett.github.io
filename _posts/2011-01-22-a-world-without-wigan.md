@@ -1,12 +1,10 @@
 ---
-id: 399
 title: A World Without Wigan
 date: 2011-01-22T19:53:00+00:00
 author: Simon Barnett
 excerpt: "Their own fans don't even care about them - can the Premier League do without Wigan Athletic?"
 
-guid: http://acresofspace.co.uk/?p=399
-permalink: /a-world-without-wigan/
+permalink: /football/a-world-without-wigan/
 categories:
   - Arsenal
   - Football

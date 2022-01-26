@@ -1,11 +1,8 @@
 ---
-id: 920
 title: The Real FA Cup
 date: 2014-03-11T19:04:27+00:00
 author: Simon Barnett
-guid: http://www.acresofspace.co.uk/?page_id=920
-slide_template:
-  - default
+
 ---
 _A website which seeks to promote non league football, particularly in the early stages of the FA Cup_
 

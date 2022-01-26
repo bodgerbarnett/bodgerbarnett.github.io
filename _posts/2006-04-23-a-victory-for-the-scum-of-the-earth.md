@@ -1,21 +1,10 @@
 ---
-id: 10
 title: A victory for the scum of the earth
 date: 2006-04-23T21:59:00+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/wpblog/?p=7
-permalink: /a-victory-for-the-scum-of-the-earth/
-has_tweeted:
-  - "1"
-blogger_blog:
-  - blog.acresofspace.co.uk
-  - blog.acresofspace.co.uk
-blogger_permalink:
-  - /2006/04/victory-for-scum-of-earth.html
-  - /2006/04/victory-for-scum-of-earth.html
-slide_template:
-  - ""
+permalink: /football/a-victory-for-the-scum-of-the-earth/
+
 categories:
   - Arsenal
   - Football

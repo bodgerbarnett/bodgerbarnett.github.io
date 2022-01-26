@@ -1,21 +1,10 @@
 ---
-id: 16
 title: Sven left counting his cash after abject failure
 date: 2006-07-01T18:17:00+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/wpblog/?p=13
-permalink: /sven-left-counting-his-cash-after-abject-failure/
-has_tweeted:
-  - "1"
-blogger_blog:
-  - blog.acresofspace.co.uk
-  - blog.acresofspace.co.uk
-blogger_permalink:
-  - /2006/07/sven-left-counting-his-cash-after.html
-  - /2006/07/sven-left-counting-his-cash-after.html
-slide_template:
-  - ""
+permalink: /football/sven-left-counting-his-cash-after-abject-failure/
+
 categories:
   - England
   - Football

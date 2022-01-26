@@ -1,11 +1,9 @@
 ---
-id: 511
 title: 'The Flaw In Arsenal&#8217;s Strategy'
 date: 2012-07-04T23:37:31+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/?p=511
-permalink: /the-flaw-in-arsenals-strategy/
+permalink: /football/the-flaw-in-arsenals-strategy/
 categories:
   - Arsenal
   - Champions League

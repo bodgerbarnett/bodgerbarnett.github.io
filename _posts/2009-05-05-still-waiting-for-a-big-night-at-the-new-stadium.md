@@ -1,16 +1,12 @@
 ---
-id: 180
 title: Still waiting for a big night at the new stadium
 date: 2009-05-05T22:22:07+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=180
-permalink: /still-waiting-for-a-big-night-at-the-new-stadium/
-has_tweeted:
+permalink: /football/still-waiting-for-a-big-night-at-the-new-stadium/
+
   - "1"
-  - "1"
-slide_template:
-  - ""
+
 categories:
   - Arsenal
   - Champions League

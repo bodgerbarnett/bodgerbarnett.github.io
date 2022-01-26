@@ -1,15 +1,11 @@
 ---
-id: 168
 title: More Brown nonsense
 date: 2009-03-19T16:47:13+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=168
-permalink: /more-brown-nonsense/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/more-brown-nonsense/
+
+
 categories:
   - Arsenal
   - F.A. Cup

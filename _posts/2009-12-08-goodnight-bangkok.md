@@ -1,16 +1,13 @@
 ---
-id: 256
 title: Goodnight Bangkok
 date: 2009-12-08T16:44:15+00:00
 author: Simon Barnett
 excerpt: Arriving in Bangkok after a long flight was a tiring business.
 
-guid: http://acresofspace.co.uk/2009/12/08/goodnight-bangkok/
-permalink: /goodnight-bangkok/
-slide_template:
-  - default
-post_image:
-  - https://lh4.googleusercontent.com/-hjNiheHof_w/U2zdRbLWRgI/AAAAAAAABw0/Ot-0CPtCXdw/s400/yawn.jpg
+permalink: /travelling/goodnight-bangkok/
+
+header:
+  teaser:  https://lh4.googleusercontent.com/-hjNiheHof_w/U2zdRbLWRgI/AAAAAAAABw0/Ot-0CPtCXdw/s400/yawn.jpg
 categories:
   - Thailand
   - Travelling

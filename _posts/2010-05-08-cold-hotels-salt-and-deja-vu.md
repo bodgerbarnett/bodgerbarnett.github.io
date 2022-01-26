@@ -1,16 +1,13 @@
 ---
-id: 365
 title: Cold Hotels, Salt And Deja Vu
 date: 2010-05-08T15:54:59+00:00
 author: Simon Barnett
 excerpt: 'A visit to the amazing salt flats at Uyuni is followed by another agonising bus journey to the highest city in the world - Potosi - where we bump into some old friends.'
 
-guid: http://acresofspace.co.uk/2010/05/08/cold-hotels-salt-and-deja-vu/
-permalink: /cold-hotels-salt-and-deja-vu/
-slide_template:
-  - default
-post_image:
-  - https://lh4.googleusercontent.com/-D-k5ty633bU/UO1UmOqyWcI/AAAAAAAAAHM/nPQp5M4Zz6Y/s640/DSC_0071.JPG
+permalink: /travelling/cold-hotels-salt-and-deja-vu/
+
+header:
+  teaser:  https://lh4.googleusercontent.com/-D-k5ty633bU/UO1UmOqyWcI/AAAAAAAAAHM/nPQp5M4Zz6Y/s640/DSC_0071.JPG
 categories:
   - Bolivia
   - Travelling

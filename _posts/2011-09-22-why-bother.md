@@ -1,11 +1,9 @@
 ---
-id: 472
 title: Why Bother?
 date: 2011-09-22T13:59:57+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=472
-permalink: /why-bother/
+permalink: /football/why-bother/
 categories:
   - Arsenal
   - Football

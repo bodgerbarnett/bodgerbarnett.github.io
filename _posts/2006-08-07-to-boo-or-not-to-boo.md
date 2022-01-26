@@ -1,21 +1,10 @@
 ---
-id: 17
 title: To boo or not to boo
 date: 2006-08-07T16:30:00+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/wpblog/?p=14
-permalink: /to-boo-or-not-to-boo/
-has_tweeted:
-  - "1"
-blogger_blog:
-  - blog.acresofspace.co.uk
-  - blog.acresofspace.co.uk
-blogger_permalink:
-  - /2006/08/to-boo-or-not-to-boo.html
-  - /2006/08/to-boo-or-not-to-boo.html
-slide_template:
-  - ""
+permalink: /football/to-boo-or-not-to-boo/
+
 categories:
   - Arsenal
   - Football

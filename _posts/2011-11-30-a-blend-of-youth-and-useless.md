@@ -1,11 +1,9 @@
 ---
-id: 484
 title: A Blend Of Youth And Useless
 date: 2011-11-30T14:42:04+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=484
-permalink: /a-blend-of-youth-and-useless/
+permalink: /football/a-blend-of-youth-and-useless/
 categories:
   - Arsenal
   - Football

@@ -1,16 +1,13 @@
 ---
-id: 271
 title: 'Santa Claus Is Coming &#8211; Koh Tao'
 date: 2009-12-23T10:15:05+00:00
 author: Simon Barnett
 excerpt: We are suddenly surrounded by Gringos as we spend a week on Ko Tao. My first ever Christmas away from home. Will I cope?
 
-guid: http://acresofspace.co.uk/2009/12/23/santa-claus-is-coming-koh-tao/
-permalink: /santa-claus-is-coming-koh-tao/
-slide_template:
-  - default
-post_image:
-  - https://lh4.googleusercontent.com/-QIKUfW9szC0/UO1Ua3QvJ9I/AAAAAAAAADc/wHSMTHCj6Hg/s640/DSC_0067.JPG
+permalink: /travelling/santa-claus-is-coming-koh-tao/
+
+header:
+  teaser:  https://lh4.googleusercontent.com/-QIKUfW9szC0/UO1Ua3QvJ9I/AAAAAAAAADc/wHSMTHCj6Hg/s640/DSC_0067.JPG
 categories:
   - Thailand
   - Travelling

@@ -1,21 +1,10 @@
 ---
-id: 11
 title: 'Arsene&#8217;s Magic Hat'
 date: 2006-04-28T16:08:00+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/wpblog/?p=8
-permalink: /arsenes-magic-hat/
-has_tweeted:
-  - "1"
-blogger_blog:
-  - blog.acresofspace.co.uk
-  - blog.acresofspace.co.uk
-blogger_permalink:
-  - /2006/04/arsenes-magic-hat.html
-  - /2006/04/arsenes-magic-hat.html
-slide_template:
-  - ""
+permalink: /football/arsenes-magic-hat/
+
 categories:
   - Arsenal
   - Champions League

@@ -1,21 +1,10 @@
 ---
-id: 7
 title: Henry finds thrashing Villa all too easy
 date: 2006-04-01T21:44:00+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/wpblog/?p=4
-permalink: /henry-finds-thrashing-villa-all-too-easy/
-has_tweeted:
-  - "1"
-blogger_blog:
-  - blog.acresofspace.co.uk
-  - blog.acresofspace.co.uk
-blogger_permalink:
-  - /2006/04/henry-finds-thrashing-villa-all-too.html
-  - /2006/04/henry-finds-thrashing-villa-all-too.html
-slide_template:
-  - ""
+permalink: /football/henry-finds-thrashing-villa-all-too-easy/
+
 categories:
   - Arsenal
   - Football

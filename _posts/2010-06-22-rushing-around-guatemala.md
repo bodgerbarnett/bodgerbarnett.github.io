@@ -1,16 +1,13 @@
 ---
-id: 382
 title: Rushing Around Guatemala
 date: 2010-06-22T04:26:46+00:00
 author: Simon Barnett
 excerpt: A few more painful bus journeys as we fling around Guatemala in record time so that we can cram in a visit to Semuc Champey as well as Tikal before we head for the last leg and a stay on the island of Caye Caulker in Belize.
 
-guid: http://acresofspace.co.uk/2010/06/22/rushing-around-guatemala/
-permalink: /rushing-around-guatemala/
-slide_template:
-  - default
-post_image:
-  - https://lh3.googleusercontent.com/-9211nqfi-MQ/UO1Up2e6jnI/AAAAAAAAAIY/pT8i_WMCGUo/s640/DSC_0126.JPG
+permalink: /travelling/rushing-around-guatemala/
+
+header:
+  teaser:  https://lh3.googleusercontent.com/-9211nqfi-MQ/UO1Up2e6jnI/AAAAAAAAAIY/pT8i_WMCGUo/s640/DSC_0126.JPG
 categories:
   - Guatemala
   - Travelling

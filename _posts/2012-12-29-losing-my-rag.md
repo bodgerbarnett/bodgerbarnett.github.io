@@ -1,26 +1,9 @@
 ---
-id: 787
 title: Losing My Rag
 date: 2012-12-29T21:35:20+00:00
 author: Simon Barnett
 excerpt: "We won 7-3 and yet I'm ranting furiously."
-
-guid: http://www.acresofspace.co.uk/?p=787
-permalink: /losing-my-rag/
-networkpub_postmessage:
-  - ""
-networkpub_postsummary:
-  - ""
-networkpub_twitterhandle:
-  - ""
-networkpub_twitterhash:
-  - ""
-networkpub_ogtype_facebook:
-  - article
-networkpub_post_image_video:
-  - image
-slide_template:
-  - ""
+permalink: /football/losing-my-rag/
 categories:
   - Arsenal
   - Football

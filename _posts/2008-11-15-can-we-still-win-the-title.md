@@ -1,15 +1,11 @@
 ---
-id: 121
 title: Can we still win the title?
 date: 2008-11-15T19:34:36+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=121
-permalink: /can-we-still-win-the-title/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/can-we-still-win-the-title/
+
+
 categories:
   - Arsenal
   - Football

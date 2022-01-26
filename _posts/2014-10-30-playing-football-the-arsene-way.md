@@ -1,14 +1,11 @@
 ---
-id: 1786
 title: 'Playing Football &#8211; The Arsène Way'
 date: 2014-10-30T10:15:46+00:00
 author: David Barnett
 excerpt: Daddy Barnett gets in on the Arsène-bashing.
 
-guid: http://www.acresofspace.co.uk/?p=1786
-permalink: /playing-football-the-arsene-way/
-slide_template:
-  - default
+permalink: /football/playing-football-the-arsene-way/
+
 snap_MYURL:
   - ""
 snapEdIT:

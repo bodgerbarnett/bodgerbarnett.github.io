@@ -1,21 +1,10 @@
 ---
-id: 22
 title: 'No class but one trophy &#8211; well done Chelsea'
 date: 2007-03-02T15:42:00+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/wpblog/?p=19
-permalink: /no-class-but-one-trophy-well-done-chelsea/
-has_tweeted:
-  - "1"
-blogger_blog:
-  - blog.acresofspace.co.uk
-  - blog.acresofspace.co.uk
-blogger_permalink:
-  - /2007/03/no-class-but-one-trophy-well-done.html
-  - /2007/03/no-class-but-one-trophy-well-done.html
-slide_template:
-  - ""
+permalink: /football/no-class-but-one-trophy-well-done-chelsea/
+
 categories:
   - Arsenal
   - Football

@@ -1,15 +1,11 @@
 ---
-id: 108
 title: The pointlessness of the media
 date: 2008-10-04T17:41:34+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=108
-permalink: /the-pointlessness-of-the-media/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/the-pointlessness-of-the-media/
+
+
 categories:
   - Arsenal
   - Football

@@ -1,21 +1,10 @@
 ---
-id: 18
 title: Tottenham back in the big time
 date: 2006-09-14T19:54:00+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/wpblog/?p=15
-permalink: /tottenham-back-in-the-big-time/
-has_tweeted:
-  - "1"
-blogger_blog:
-  - blog.acresofspace.co.uk
-  - blog.acresofspace.co.uk
-blogger_permalink:
-  - /2006/09/tottenham-back-in-big-time.html
-  - /2006/09/tottenham-back-in-big-time.html
-slide_template:
-  - ""
+permalink: /football/tottenham-back-in-the-big-time/
+
 categories:
   - Football
   - Tottenham

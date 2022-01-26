@@ -1,14 +1,11 @@
 ---
-id: 208
 title: '2008/2009 Season Reviews &#8211; The Realist'
 date: 2009-07-18T19:27:02+00:00
 author: Simon Barnett
 excerpt: We’ve read the positive views of The Optimist and we’ve pored over the depressing thoughts of the Pessimist – but what was 2008/2009 like from the point of view of someone who sees things in a very balanced way?
 
-guid: http://acresofspace.co.uk/?p=208
-permalink: /20082009-season-reviews-the-realist/
-slide_template:
-  - ""
+permalink: /football/20082009-season-reviews-the-realist/
+
 categories:
   - Arsenal
   - Football

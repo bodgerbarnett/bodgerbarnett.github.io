@@ -1,15 +1,11 @@
 ---
-id: 35
 title: Sometimes, football is rubbish
 date: 2008-04-28T22:05:54+00:00
 author: Simon Barnett
 
-guid: http://www.acresofspace.co.uk/?p=116
-permalink: /sometimes-football-is-rubbish/
-has_tweeted:
-  - "1"
-slide_template:
-  - ""
+permalink: /football/sometimes-football-is-rubbish/
+
+
 categories:
   - Arsenal
   - Champions League

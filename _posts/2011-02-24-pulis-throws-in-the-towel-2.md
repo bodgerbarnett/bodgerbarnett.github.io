@@ -1,11 +1,9 @@
 ---
-id: 436
 title: Pulis Throws In The Towel
 date: 2011-02-24T14:34:30+00:00
 author: Simon Barnett
 
-guid: http://acresofspace.co.uk/?p=436
-permalink: /pulis-throws-in-the-towel-2/
+permalink: /football/pulis-throws-in-the-towel-2/
 categories:
   - Arsenal
   - Football

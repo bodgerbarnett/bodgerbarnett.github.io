@@ -1,16 +1,13 @@
 ---
-id: 267
 title: Train from Trang
 date: 2009-12-20T05:57:11+00:00
 author: Annika McKee
 excerpt: Annika pens her first (and possibly last!) post of the trip, detailing the joys of Trang.
 
-guid: http://acresofspace.co.uk/?p=267
-permalink: /train-from-trang/
-slide_template:
-  - default
-post_image:
-  - https://lh3.googleusercontent.com/-TRbxgmOMQok/UO1UaoDv-cI/AAAAAAAAADY/3UDmfa_bKfU/s640/DSC_0013.JPG
+permalink: /travelling/train-from-trang/
+
+header:
+  teaser:  https://lh3.googleusercontent.com/-TRbxgmOMQok/UO1UaoDv-cI/AAAAAAAAADY/3UDmfa_bKfU/s640/DSC_0013.JPG
 categories:
   - Thailand
   - Travelling

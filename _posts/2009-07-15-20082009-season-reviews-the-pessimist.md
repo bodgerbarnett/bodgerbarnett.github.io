@@ -1,14 +1,11 @@
 ---
-id: 203
 title: '2008/2009 Season Reviews &#8211; The Pessimist'
 date: 2009-07-15T11:43:55+00:00
 author: Simon Barnett
 excerpt: A pessimist is never disappointed. This one, however, is.
 
-guid: http://acresofspace.co.uk/?p=203
-permalink: /20082009-season-reviews-the-pessimist/
-slide_template:
-  - ""
+permalink: /football/20082009-season-reviews-the-pessimist/
+
 categories:
   - Arsenal
   - Champions League
