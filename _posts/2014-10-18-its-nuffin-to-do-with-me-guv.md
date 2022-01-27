@@ -5,17 +5,6 @@ author: Simon Barnett
 excerpt: "The constant insistence by those in charge that they're not to blame is - just slightly - getting to me."
 
 permalink: /football/its-nuffin-to-do-with-me-guv/
-
-snap_isAutoPosted:
-  - "1"
-snap_MYURL:
-  - ""
-snapEdIT:
-  - "1"
-snapTW:
-  - 's:271:"a:1:{i:0;a:9:{s:4:"doTW";s:1:"1";s:10:"SNAPformat";s:15:"%TITLE% - %URL%";s:8:"attchImg";s:1:"0";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:11:"isPrePosted";s:1:"1";s:8:"isPosted";s:1:"1";s:4:"pgID";s:18:"523545682691784705";s:5:"pDate";s:19:"2014-10-18 18:46:30";}}";'
-snapFB:
-  - 's:348:"a:1:{i:0;a:12:{s:4:"doFB";s:1:"1";s:8:"postType";s:1:"A";s:10:"AttachPost";s:1:"2";s:10:"SNAPformat";s:7:"%TITLE%";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:11:"isPrePosted";s:1:"1";s:8:"isPosted";s:1:"1";s:4:"pgID";s:31:"152182394833573_809465349105271";s:5:"pDate";s:19:"2014-10-18 18:46:40";}}";'
 categories:
   - Arsenal
   - Football
