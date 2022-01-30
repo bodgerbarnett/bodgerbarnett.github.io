@@ -3,17 +3,7 @@ title: 'Playing Football &#8211; The Arsène Way'
 date: 2014-10-30T10:15:46+00:00
 author: David Barnett
 excerpt: Daddy Barnett gets in on the Arsène-bashing.
-
 permalink: /football/playing-football-the-arsene-way/
-
-snap_MYURL:
-  - ""
-snapEdIT:
-  - "1"
-snapFB:
-  - 's:208:"a:1:{i:0;a:8:{s:4:"doFB";s:1:"1";s:8:"postType";s:1:"A";s:10:"AttachPost";s:1:"2";s:10:"SNAPformat";s:7:"%TITLE%";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";}}";'
-snapTW:
-  - 's:145:"a:1:{i:0;a:5:{s:4:"doTW";s:1:"1";s:10:"SNAPformat";s:15:"%TITLE% - %URL%";s:8:"attchImg";s:1:"0";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";}}";'
 categories:
   - Arsenal
   - Football

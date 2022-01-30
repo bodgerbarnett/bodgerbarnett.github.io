@@ -5,15 +5,6 @@ author: Simon Barnett
 excerpt: "After nine years of being constantly reminded of how long we've gone without a trophy, Saturday was a blessed relief."
 
 permalink: /football/good-old-arsenal/
-
-snap_MYURL:
-  - ""
-snapEdIT:
-  - "1"
-snapTW:
-  - 's:142:"a:1:{i:0;a:4:{s:11:"isPrePosted";s:1:"1";s:8:"isPosted";s:1:"1";s:4:"pgID";s:18:"469965806663897088";s:5:"pDate";s:19:"2014-05-23 22:19:14";}}";'
-snapFB:
-  - 's:155:"a:1:{i:0;a:4:{s:11:"isPrePosted";s:1:"1";s:8:"isPosted";s:1:"1";s:4:"pgID";s:31:"152182394833573_732496923468781";s:5:"pDate";s:19:"2014-05-23 22:23:33";}}";'
 categories:
   - Arsenal
   - F.A. Cup
