@@ -5,8 +5,6 @@ author: Simon Barnett
 
 permalink: /football/still-waiting-for-a-big-night-at-the-new-stadium/
 
-  - "1"
-
 categories:
   - Arsenal
   - Champions League

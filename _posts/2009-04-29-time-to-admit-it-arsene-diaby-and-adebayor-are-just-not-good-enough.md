@@ -5,8 +5,6 @@ author: Simon Barnett
 
 permalink: /football/time-to-admit-it-arsene-diaby-and-adebayor-are-just-not-good-enough/
 
-  - "1"
-
 categories:
   - Arsenal
   - Champions League

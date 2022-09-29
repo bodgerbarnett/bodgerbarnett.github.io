@@ -5,8 +5,6 @@ author: Simon Barnett
 
 permalink: /football/20082009-season-reviews-the-optimist/
 
-  - "1"
-
 categories:
   - Arsenal
   - Champions League

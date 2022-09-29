@@ -5,8 +5,6 @@ author: Simon Barnett
 
 permalink: /football/phil-brown-in-sanity-loss-shock/
 
-  - "1"
-
 categories:
   - Arsenal
   - F.A. Cup

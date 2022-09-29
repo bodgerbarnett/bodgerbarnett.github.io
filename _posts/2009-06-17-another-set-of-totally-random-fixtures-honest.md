@@ -5,8 +5,6 @@ author: Simon Barnett
 
 permalink: /football/another-set-of-totally-random-fixtures-honest/
 
-  - "1"
-
 categories:
   - Arsenal
   - Football

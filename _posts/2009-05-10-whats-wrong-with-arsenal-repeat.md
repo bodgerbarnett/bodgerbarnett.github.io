@@ -5,8 +5,6 @@ author: Simon Barnett
 
 permalink: /football/whats-wrong-with-arsenal-repeat/
 
-  - "1"
-
 categories:
   - Arsenal
   - Football
