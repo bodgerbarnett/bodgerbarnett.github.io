@@ -13,7 +13,7 @@ categories:
 ---
 <div>
   <p>
-    You could be forgiven for thinking that Tony Pulis was <em>really</em> annoyed about his team having to go to North London last night. He certainly wasn&#8217;t really that interested in playing football, that&#8217;s for sure.
+    You could be forgiven for thinking that Tony Pulis was <em>really</em> annoyed about his team having to go to North London last night. He certainly was not really that interested in playing football, that&#8217;s for sure.
   </p>
   
   <p>
